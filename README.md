@@ -7,4 +7,5 @@ Landscape view:
 ![lanscape](https://raw.githubusercontent.com/drakarisbelen/nintendo_supermario_clon/master/public/img/landscape.PNG)
 
 Portrait View:
+
 ![lanscape](https://raw.githubusercontent.com/drakarisbelen/nintendo_supermario_clon/master/public/img/portrait.PNG)
